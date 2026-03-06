@@ -399,22 +399,21 @@ Full requirements pinning, environment isolation via Conda, and documented step-
     <td align="center">
       <strong>[ Your Name ]</strong><br/>
       <em>Data Analyst | Python Developer | Market Intelligence</em><br/><br/>
-      <a href="https://linkedin.com/in/your-profile">
+      <a href="https://linkedin.com/in/anthony-michael-b36382259">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
       </a>
       &nbsp;
-      <a href="https://github.com/your-username">
+      <a href="https://github.com/anthonymike180">
         <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
       </a>
       &nbsp;
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:your.anthonymike9110@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
 
-> *Replace `[ Your Name ]`, LinkedIn URL, GitHub username, and email with your actual details before publishing.*
 
 ---
 
@@ -423,7 +422,7 @@ Full requirements pinning, environment isolation via Conda, and documented step-
 ```
 MIT License
 
-Copyright (c) 2024 [ Your Name ]
+Copyright (c) 2026 [ Anthony Michael ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -451,7 +450,7 @@ THE SOFTWARE.
 If this project helped you, taught you something new, or gave you a template for your own portfolio — please consider giving it a star. It takes one second and helps other developers and analysts discover it.
 
 <p align="center">
-  <a href="https://github.com/your-username/Job-Market-Demand-Dashboard">
+  <a href="https://github.com/anthonymike180/Job-Market-Demand-Dashboard">
     <img src="https://img.shields.io/badge/⭐%20Star%20This%20Repo-If%20It%20Helped%20You-FFD700?style=for-the-badge"/>
   </a>
 </p>
