@@ -1,0 +1,13 @@
+Country,Skill,Start Value,End Value,CAGR (%),YoY Growth (%),Avg Interest,Volatility,Peak Value,Trend Slope,N Years
+Nigeria,Data Analyst,10.67,21.94,15.51,-24.37,29.21,10.89,48.0,0.0238,5.0
+Nigeria,Cybersecurity,8.06,40.69,38.21,5.17,25.89,13.29,100.0,0.154,5.0
+Nigeria,AI engineer,0.0,5.06,,392.31,0.87,1.82,8.0,0.0134,5.0
+Nigeria,Web developer,6.35,5.31,-3.52,-34.19,10.15,3.92,21.0,-0.0115,5.0
+United Kingdom,Data Analyst,12.83,33.0,20.78,0.73,25.31,6.95,40.0,0.0736,5.0
+United Kingdom,Cybersecurity,7.33,79.06,60.86,194.81,17.86,13.2,100.0,0.1278,5.0
+United Kingdom,AI engineer,0.0,12.12,,176.36,2.7,3.28,21.0,0.0327,5.0
+United Kingdom,Web developer,6.94,6.12,-2.46,-11.54,6.3,1.37,15.0,-0.0049,5.0
+Canada,Data Analyst,13.92,30.38,16.89,5.49,25.65,6.4,40.0,0.0428,5.0
+Canada,Cybersecurity,10.62,83.69,51.08,133.33,29.65,15.46,100.0,0.1641,5.0
+Canada,AI engineer,0.15,15.75,154.99,222.95,3.18,3.92,18.0,0.0402,5.0
+Canada,Web developer,7.85,6.62,-3.35,-10.23,8.45,2.14,14.0,-0.0127,5.0
